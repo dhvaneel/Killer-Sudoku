@@ -1,5 +1,4 @@
-# Killer-Sudoku
-CS101 Project- C++
+
 #include<iostream>
 
 using namespace std;
